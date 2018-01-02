@@ -3,7 +3,6 @@
 //  SwiftJsonTester
 //
 //  Created by Adam Chin on 12/5/16.
-//  Copyright © 2016 hushbox. All rights reserved.
 //
 
 import UIKit

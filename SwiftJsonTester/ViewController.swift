@@ -3,7 +3,7 @@
 //  SwiftJsonTester
 //
 //  Created by Adam Chin
-//  Copyright © 2016 hushbox. All rights reserved.
+
 //
 // SwiftJsonTester/MoreOffers.json
 import UIKit
