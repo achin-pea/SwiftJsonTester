@@ -10,7 +10,7 @@ import UIKit
 
 class ViewController: UIViewController, URLSessionDownloadDelegate, UIDocumentInteractionControllerDelegate {
     
-    let url_to_request:String = "https://raw.githubusercontent.com/cjazz/SwiftJsonTester/master/MoreOffers.json"
+    let url_to_request:String = "https://raw.githubusercontent.com/achin-pea/SwiftJsonTester/master/MoreOffers.json"
     
     var downloadTask: URLSessionDownloadTask!
     var backgroundSession: Foundation.URLSession!
